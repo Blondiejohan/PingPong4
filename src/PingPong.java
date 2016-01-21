@@ -103,7 +103,7 @@ public void processKeyEvent(KeyEvent e)
 	        a = a - da;
 	        }
 
-	      opponent();
+	      opponent(); 
 	        }
 	    }
 	}
